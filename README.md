@@ -1,6 +1,6 @@
 # Proyecto-Mermas
 
-###Inicializar el proyecto
+### Inicializar el proyecto
 Entrar en una terminal dentro de la carpeta _Mermas-Frontend_ y usar el comando:
 ```
 npm install
